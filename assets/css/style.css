@@ -2115,6 +2115,8 @@ header .wrapper {
 
 @media only screen and (max-width: 640px) {
 
+  header .wrapper { width: 90%; }
+
   .banner-heading {
     font-size: 38px;
     line-height: 50px;
@@ -2321,6 +2323,8 @@ header .wrapper {
 =================================*/
 
 @media only screen and (max-width: 480px) {
+
+  .wrapper { width: 87%; }
 
   .nav-buy-container {
     -ms-flex-preferred-size: 35%;
